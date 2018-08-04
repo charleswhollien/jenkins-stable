@@ -1,2 +1,4 @@
 # jenkins-stable
-Oracle Linux based Jenkins for DevOps with Ansible
+Oracle Linux based Jenkins containter built for DevOps with Ansible
+
+
